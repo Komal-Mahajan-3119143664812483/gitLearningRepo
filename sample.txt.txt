@@ -1,2 +1,7 @@
 this is a sample file
+<<<<<<< HEAD
 new changes made 
+=======
+
+hehe
+>>>>>>> a50587bb64fd367e8dafe32e2718d0ba6dcd67a9

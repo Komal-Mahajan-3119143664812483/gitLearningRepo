@@ -1,2 +1,6 @@
 this repository is created 
+<<<<<<< HEAD
 adding some content
+=======
+changes made in remote file
+>>>>>>> a50587bb64fd367e8dafe32e2718d0ba6dcd67a9
